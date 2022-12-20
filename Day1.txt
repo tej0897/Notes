@@ -1,0 +1,17 @@
+Index:
+
+1. Why Spring?
+
+______________________________________________________________
+
+Why Spring?
+
+    1. Very popular framework for building Java Applications.
+    2. A simpler and lightweight alternative for J2EE.
+    3. Provides a large number of "Helper Classes" which makes things easier.
+    4. J2EE got complex as they kept updating it. (EJB)
+
+______________________________________________________________
+
+
+
